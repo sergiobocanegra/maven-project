@@ -11,7 +11,6 @@ public class Greeter {
   public Greeter() {
 
   }
-  
 /**
  * @param someone El nombre de una persona
  * @return saludo en formato String
